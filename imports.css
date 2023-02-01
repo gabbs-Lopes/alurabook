@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Damion&family=Poppins:wght@200;300;400;500;600;700&family=Josefin+Sans:wght@400;700&display=swap');
+
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #fff;
+    --laranja: #eb9b00;
+    --azul-escuro: #002F52;
+    --azul-gradient: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --fonte-principal: 'Poppins', sans-serif;
+    --fonte-secundaria: "Josefin Sans";
+    --cinza: #474646;
+    --cinza-claro: #858585;
+}
+
+
+
+
+
+
